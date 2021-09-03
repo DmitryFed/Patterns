@@ -1,0 +1,16 @@
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\Abstract_factory_example_1.exe
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\Abstract_factory_example_1.deps.json
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\Abstract_factory_example_1.runtimeconfig.json
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\Abstract_factory_example_1.runtimeconfig.dev.json
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\Abstract_factory_example_1.dll
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\ref\Abstract_factory_example_1.dll
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\bin\Debug\net5.0\Abstract_factory_example_1.pdb
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.csprojAssemblyReference.cache
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.AssemblyInfoInputs.cache
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.AssemblyInfo.cs
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.csproj.CoreCompileInputs.cache
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.dll
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\ref\Abstract_factory_example_1.dll
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.pdb
+C:\Git Repositories\CSharp_study\Patterns\Abstract_factory_example_1\obj\Debug\net5.0\Abstract_factory_example_1.genruntimeconfig.cache
