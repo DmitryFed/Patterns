@@ -1,0 +1,16 @@
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\Builder_Pattern.exe
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\Builder_Pattern.deps.json
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\Builder_Pattern.runtimeconfig.json
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\Builder_Pattern.runtimeconfig.dev.json
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\Builder_Pattern.dll
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\ref\Builder_Pattern.dll
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\bin\Debug\net5.0\Builder_Pattern.pdb
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.csprojAssemblyReference.cache
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.AssemblyInfoInputs.cache
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.AssemblyInfo.cs
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.csproj.CoreCompileInputs.cache
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.dll
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\ref\Builder_Pattern.dll
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.pdb
+C:\Git Repositories\CSharp_study\Patterns\Builder_Pattern\obj\Debug\net5.0\Builder_Pattern.genruntimeconfig.cache

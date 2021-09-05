@@ -13,7 +13,7 @@ namespace Abstract_factory_example_1
     }
 
 
-    // Реализация 1
+    //Реализация 1
   public  class TelegramWidget : MessengerWidget
     {
         public override void Display()
@@ -56,7 +56,7 @@ namespace Abstract_factory_example_1
         }
     }
 
-    //интерфейс фабрики
+    //интерфейс абстрактной фабрики
     abstract public class Messenger
     {
       public abstract MessengerSound CreateMessengerSound();
@@ -100,7 +100,7 @@ namespace Abstract_factory_example_1
 
     }
 
-    //Реализация абстрактной фабрики
+    //Клиент
     class messengerFactory
     {
 
